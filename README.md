@@ -36,6 +36,6 @@ The ultimate goal is to demonstrate how parallel processing can improve speed an
   - OpenMP (for threading)  
   - MPI (for distributed processing)  
   - CUDA (for GPU programming)  
-- **Dataset:** MRI imaging dataset (details below)
+- **Dataset:** MRI imaging dataset from Kaggle .
 
 ---
