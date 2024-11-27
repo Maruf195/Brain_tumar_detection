@@ -1,4 +1,4 @@
-#Enhancing Image Processing Efficiency for MRI Data: Comparative Analysis of Threading and Parallel Processing Techniques
+# Enhancing Image Processing Efficiency for MRI Data: Comparative Analysis of Threading and Parallel Processing Techniques
 
 This project explores the use of threading and other parallel computing methods, including MPI, shared memory, and GPU programming, to enhance the performance of image processing models applied to MRI datasets. The goal is to optimize various stages of the image processing pipeline, such as pre-processing, normalization, and training, and compare the performance of models with and without these parallelization techniques.
 
