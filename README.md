@@ -1,1 +1,1 @@
-# Brain_tumar_detection
+# Brain-MRI-Segmentation
