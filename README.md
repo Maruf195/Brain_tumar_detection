@@ -29,19 +29,7 @@ To run this project, you'll need the following Python libraries:
 
 You can install the required packages via `pip`:
 
- --- > pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python scikit-image
+```bash
+pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python scikit-image
 
 
-### Key Sections in the `README.md`:
-
-1. **Overview**: Briefly introduces what the project is about and what it does.
-2. **Features**: Lists key components like the U-Net architecture, evaluation metrics, and model training callbacks.
-3. **Requirements**: Specifies the dependencies for running the project.
-4. **Dataset**: Instructions for preparing and organizing your data (images and masks).
-5. **How to Train the Model**: Provides clear instructions on how to set up and train the model, including running the training script.
-6. **Model Evaluation**: Explains how to evaluate the model after training.
-7. **Example Results**: Mentions expected performance, typically using Dice Coefficient or IoU.
-8. **Notes**: Additional advice on preprocessing and model architecture.
-9. **License and Acknowledgements**: Acknowledges the creators of the original U-Net model and includes licensing information.
-
-This should help users quickly understand your project and get started with training their own MRI segmentation model!
