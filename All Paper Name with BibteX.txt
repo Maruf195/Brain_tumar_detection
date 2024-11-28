@@ -1,0 +1,259 @@
+Paper 1:A Deep Analysis of Brain Tumour Detection from MR Images Using Deep Learning Networks
+
+@article{a1,
+  title={A deep analysis of brain tumor detection from mr images using deep learning networks},
+  author={Mahmud, Md Ishtyaq and Mamun, Muntasir and Abdelgawad, Ahmed},
+  journal={Algorithms},
+  volume={16},
+  number={4},
+  pages={176},
+  year={2023},
+  publisher={MDPI}
+}
+
+
+Paper 2: A distinctive approach in brain tumour detection and classification using MRI
+
+@article{a2,
+  title={A distinctive approach in brain tumor detection and classification using MRI},
+  author={Amin, Javeria and Sharif, Muhammad and Yasmin, Mussarat and Fernandes, Steven Lawrence},
+  journal={Pattern Recognition Letters},
+  volume={139},
+  pages={118--127},
+  year={2020},
+  publisher={Elsevier}
+}
+
+Paper 3: A Hybrid CNN-SVM Threshold Segmentation Approach for Tumour Detection and Classification of MRI Brain Images
+
+@article{a3,
+  title={A hybrid CNN-SVM threshold segmentation approach for tumor detection and classification of MRI brain images},
+  author={Khairandish, Mohammad Omid and Sharma, Meenakshi and Jain, Vishal and Chatterjee, Jyotir Moy and Jhanjhi, NZ},
+  journal={Irbm},
+  volume={43},
+  number={4},
+  pages={290--299},
+  year={2022},
+  publisher={Elsevier}
+}
+
+Paper 4: An Image Processing-based and Deep Learning Model to Classify Brain Cancer
+
+@article{a4,
+  title={An Image Processing-based and Deep Learning Model to Classify Brain Cancer},
+  author={Al-Shahrani, Amal and Al-Amoudi, Wusaylah and Bazaraah, Raghad and Al-Sharief, Atheer and Farouquee, Hanan},
+  journal={Engineering, Technology \& Applied Science Research},
+  volume={14},
+  number={4},
+  pages={15433--15438},
+  year={2024}
+}
+
+Paper 5:Automated Brain Tumour Segmentation and Classification in MRI Using YOLO-Based Deep Learning.
+
+@article{a5,
+  title={Automated brain tumor segmentation and classification in MRI using YOLO-based Deep Learning},
+  author={Almufareh, Maram Fahaad and Imran, Muhammad and Khan, Abdullah and Humayun, Mamoona and Asim, Muhammad},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
+
+
+Paper:6 : Brain Tumour Detection Based on Deep Learning Approaches and Magnetic Resonance Imaging
+
+@article{16,
+  title={Brain tumor detection based on deep learning approaches and magnetic resonance imaging},
+  author={Abdusalomov, Akmalbek Bobomirzaevich and Mukhiddinov, Mukhriddin and Whangbo, Taeg Keun},
+  journal={Cancers},
+  volume={15},
+  number={16},
+  pages={4172},
+  year={2023},
+  publisher={MDPI}
+}
+
+
+Paper 7 :  Brain tumor detection from images and comparison with transfer learning methods and 3‑layer CNN
+
+@article{a7,
+  title={Brain tumor detection from images and comparison with transfer learning methods and 3-layer CNN},
+  author={Khaliki, Mohammad Zafer and Ba{\c{s}}arslan, Muhammet Sinan},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={2664},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+Paper 8: Brain tumor detection from MRI images using deep learning techniques 
+
+@inproceedings{a8,
+  title={Brain tumor detection from MRI images using deep learning techniques},
+  author={Brindha, P Gokila and Kavinraj, M and Manivasakam, P and Prasanth, P},
+  booktitle={IOP conference series: materials science and engineering},
+  volume={1055},
+  number={1},
+  pages={012115},
+  year={2021},
+  organization={IOP Publishing}
+}
+
+
+Paper 9: Brain tumour diagnosis from MRI based on Mobilenetv2 optimised by contracted fox optimization algorithm 
+
+@article{a9,
+  title={Brain tumor diagnosis from MRI based on Mobilenetv2 optimized by contracted fox optimization algorithm},
+  author={Xu, Lu and Mohammadi, Morteza},
+  journal={Heliyon},
+  volume={10},
+  number={1},
+  year={2024},
+  publisher={Elsevier}
+}
+
+Paper 10: Deep-Learning Detection of Cancer Metastases to the Brain on MRI
+
+@article{a10,
+  title={Deep-learning detection of cancer metastases to the brain on MRI},
+  author={Zhang, Min and Young, Geoffrey S and Chen, Huai and Li, Jing and Qin, Lei and McFaline-Figueroa, J Ricardo and Reardon, David A and Cao, Xinhua and Wu, Xian and Xu, Xiaoyin},
+  journal={Journal of Magnetic Resonance Imaging},
+  volume={52},
+  number={4},
+  pages={1227--1236},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+
+Paper 11: Detection of Brain Tumour based on Features Fusion and Machine Learning
+
+@article{a11,
+  title={Detection of brain tumor based on features fusion and machine learning},
+  author={Amin, Javeria and Sharif, Muhammad and Raza, Mudassar and Yasmin, Mussarat},
+  journal={Journal of Ambient Intelligence and Humanized Computing},
+  pages={1--17},
+  year={2024},
+  publisher={Springer}
+}
+
+
+Paper 12: Employing Deep Learning and Transfer Learning for Accurate Brain Tumour Detection
+
+@article{a12,
+  title={Employing deep learning and transfer learning for accurate brain tumor detection},
+  author={Mathivanan, Sandeep Kumar and Sonaimuthu, Sridevi and Murugesan, Sankar and Rajadurai, Hariharan and Shivahare, Basu Dev and Shah, Mohd Asif},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={7232},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+
+Paper 13: Improved Multiclass Brain Tumour Detection Using Convolutional Neural Networks and Magnetic Resonance Imaging
+
+@article{a13,
+  title={Improved multiclass brain tumor detection using convolutional neural networks and magnetic resonance imaging},
+  author={Mahjoubi, Mohamed Amine and Hamida, Soufiane and Gannour, OE and Cherradi, Bouchaib and Abbassi, AE and Raihani, Abdelhadi},
+  journal={Int. J. Adv. Comput. Sci. Appl.},
+  volume={14},
+  number={3},
+  year={2023}
+}
+
+
+Paper 14 :MRI Brain Tumor Detection Using Deep Learning and Machine Learning Approaches
+
+@article{a14,
+  title={MRI brain tumor detection using deep learning and machine learning approaches},
+  author={Anantharajan, Shenbagarajan and Gunasekaran, Shenbagalakshmi and Subramanian, Thavasi and Venkatesh, R},
+  journal={Measurement: Sensors},
+  volume={31},
+  pages={101026},
+  year={2024},
+  publisher={Elsevier}
+}
+
+
+Paper 15 : Optimized Brain Tumor Detection: A Dual-Module Approach for MRI Image Enhancement and Tumor Classification
+
+@article{a15,
+  title={Optimized Brain Tumor Detection: A Dual-Module Approach for MRI Image Enhancement and Tumor Classification},
+  author={Asiri, Abdullah A and Soomro, Toufique Ahmed and Shah, Ahmed Ali and Pogrebna, Ganna and Irfan, Muhammad and Alqahtani, Saeed},
+  journal={IEEE Access},
+  volume={12},
+  pages={42868--42887},
+  year={2024},
+  publisher={IEEE}
+}
+
+
+Paper 16: MRI-based brain tumour image detection using CNN based deep learning method.
+
+@article{a16,
+  title={MRI-based brain tumour image detection using CNN based deep learning method},
+  author={Chattopadhyay, Arkapravo and Maitra, Mausumi},
+  journal={Neuroscience informatics},
+  volume={2},
+  number={4},
+  pages={100060},
+  year={2022},
+  publisher={Elsevier}
+}
+
+
+Paper 17: Detection of tumors on brain MRI images using the hybrid convolutional neural network architecture
+
+@article{a17,
+  title={Detection of tumors on brain MRI images using the hybrid convolutional neural network architecture},
+  author={{\c{C}}inar, Ahmet and Yildirim, Muhammed},
+  journal={Medical hypotheses},
+  volume={139},
+  pages={109684},
+  year={2020},
+  publisher={Elsevier}
+}
+
+
+Paper 18: Research on Feature Extraction of Tumor Image Based on Convolutional Neural Network
+
+@article{a18,
+  title={Research on feature extraction of tumor image based on convolutional neural network},
+  author={Yang, Aimin and Yang, Xiaolei and Wu, Wenrui and Liu, Huixiang and Zhuansun, Yunxi},
+  journal={IEEE access},
+  volume={7},
+  pages={24204--24213},
+  year={2019},
+  publisher={IEEE}
+}
+
+
+Paper 19: Detection of brain tumors from MRI images base on deep learning using hybrid model CNN and NADE.
+
+@article{a19,
+  title={Detection of brain tumors from MRI images base on deep learning using hybrid model CNN and NADE},
+  author={Hashemzehi, Raheleh and Mahdavi, Seyyed Javad Seyyed and Kheirabadi, Maryam and Kamel, Seyed Reza},
+  journal={biocybernetics and biomedical engineering},
+  volume={40},
+  number={3},
+  pages={1225--1232},
+  year={2020},
+  publisher={Elsevier}
+}
+
+
+Paper 20: Brain tumor MRI images identification and classification based on the recurrent convolutional neural network
+
+@article{a20,
+  title={Brain tumor MRI images identification and classification based on the recurrent convolutional neural network},
+  author={Vankdothu, Ramdas and Hameed, Mohd Abdul},
+  journal={Measurement: Sensors},
+  volume={24},
+  pages={100412},
+  year={2022},
+  publisher={Elsevier}
+}
