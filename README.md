@@ -29,9 +29,7 @@ To run this project, you'll need the following Python libraries:
 
 You can install the required packages via `pip`:
 
-```bash
-pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python scikit-image
-
+ --- > pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python scikit-image
 
 
 ### Key Sections in the `README.md`:
