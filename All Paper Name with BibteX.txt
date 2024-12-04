@@ -1,4 +1,5 @@
 Paper 1:A Deep Analysis of Brain Tumour Detection from MR Images Using Deep Learning Networks
+Publication year :  2023
 
 @article{a1,
   title={A deep analysis of brain tumor detection from mr images using deep learning networks},
@@ -14,6 +15,8 @@ Paper 1:A Deep Analysis of Brain Tumour Detection from MR Images Using Deep Lear
 
 Paper 2: A distinctive approach in brain tumour detection and classification using MRI
 
+Publication year :  2020
+
 @article{a2,
   title={A distinctive approach in brain tumor detection and classification using MRI},
   author={Amin, Javeria and Sharif, Muhammad and Yasmin, Mussarat and Fernandes, Steven Lawrence},
@@ -25,6 +28,8 @@ Paper 2: A distinctive approach in brain tumour detection and classification usi
 }
 
 Paper 3: A Hybrid CNN-SVM Threshold Segmentation Approach for Tumour Detection and Classification of MRI Brain Images
+
+Publication year :  2022
 
 @article{a3,
   title={A hybrid CNN-SVM threshold segmentation approach for tumor detection and classification of MRI brain images},
@@ -38,6 +43,7 @@ Paper 3: A Hybrid CNN-SVM Threshold Segmentation Approach for Tumour Detection a
 }
 
 Paper 4: An Image Processing-based and Deep Learning Model to Classify Brain Cancer
+Publication year :  2024
 
 @article{a4,
   title={An Image Processing-based and Deep Learning Model to Classify Brain Cancer},
@@ -49,7 +55,8 @@ Paper 4: An Image Processing-based and Deep Learning Model to Classify Brain Can
   year={2024}
 }
 
-Paper 5:Automated Brain Tumour Segmentation and Classification in MRI Using YOLO-Based Deep Learning.
+Paper 5: Automated Brain Tumour Segmentation and Classification in MRI Using YOLO-Based Deep Learning.
+Publication year : 2024
 
 @article{a5,
   title={Automated brain tumor segmentation and classification in MRI using YOLO-based Deep Learning},
@@ -61,6 +68,7 @@ Paper 5:Automated Brain Tumour Segmentation and Classification in MRI Using YOLO
 
 
 Paper:6 : Brain Tumour Detection Based on Deep Learning Approaches and Magnetic Resonance Imaging
+Publication year : 2023
 
 @article{16,
   title={Brain tumor detection based on deep learning approaches and magnetic resonance imaging},
@@ -75,6 +83,7 @@ Paper:6 : Brain Tumour Detection Based on Deep Learning Approaches and Magnetic 
 
 
 Paper 7 :  Brain tumor detection from images and comparison with transfer learning methods and 3‑layer CNN
+Publication year : 2024
 
 @article{a7,
   title={Brain tumor detection from images and comparison with transfer learning methods and 3-layer CNN},
@@ -89,6 +98,7 @@ Paper 7 :  Brain tumor detection from images and comparison with transfer learni
 
 
 Paper 8: Brain tumor detection from MRI images using deep learning techniques 
+Publication year : 2021
 
 @inproceedings{a8,
   title={Brain tumor detection from MRI images using deep learning techniques},
@@ -103,6 +113,7 @@ Paper 8: Brain tumor detection from MRI images using deep learning techniques
 
 
 Paper 9: Brain tumour diagnosis from MRI based on Mobilenetv2 optimised by contracted fox optimization algorithm 
+Publication year : 2024
 
 @article{a9,
   title={Brain tumor diagnosis from MRI based on Mobilenetv2 optimized by contracted fox optimization algorithm},
@@ -115,6 +126,7 @@ Paper 9: Brain tumour diagnosis from MRI based on Mobilenetv2 optimised by contr
 }
 
 Paper 10: Deep-Learning Detection of Cancer Metastases to the Brain on MRI
+Publication year : 2020
 
 @article{a10,
   title={Deep-learning detection of cancer metastases to the brain on MRI},
@@ -129,6 +141,7 @@ Paper 10: Deep-Learning Detection of Cancer Metastases to the Brain on MRI
 
 
 Paper 11: Detection of Brain Tumour based on Features Fusion and Machine Learning
+Publication year : 2024
 
 @article{a11,
   title={Detection of brain tumor based on features fusion and machine learning},
@@ -141,6 +154,7 @@ Paper 11: Detection of Brain Tumour based on Features Fusion and Machine Learnin
 
 
 Paper 12: Employing Deep Learning and Transfer Learning for Accurate Brain Tumour Detection
+Publication year : 2024
 
 @article{a12,
   title={Employing deep learning and transfer learning for accurate brain tumor detection},
@@ -155,6 +169,7 @@ Paper 12: Employing Deep Learning and Transfer Learning for Accurate Brain Tumou
 
 
 Paper 13: Improved Multiclass Brain Tumour Detection Using Convolutional Neural Networks and Magnetic Resonance Imaging
+Publication year : 2023 
 
 @article{a13,
   title={Improved multiclass brain tumor detection using convolutional neural networks and magnetic resonance imaging},
@@ -166,7 +181,8 @@ Paper 13: Improved Multiclass Brain Tumour Detection Using Convolutional Neural 
 }
 
 
-Paper 14 :MRI Brain Tumor Detection Using Deep Learning and Machine Learning Approaches
+Paper 14 : MRI Brain Tumor Detection Using Deep Learning and Machine Learning Approaches
+Publication year : 2024
 
 @article{a14,
   title={MRI brain tumor detection using deep learning and machine learning approaches},
@@ -180,6 +196,7 @@ Paper 14 :MRI Brain Tumor Detection Using Deep Learning and Machine Learning App
 
 
 Paper 15 : Optimized Brain Tumor Detection: A Dual-Module Approach for MRI Image Enhancement and Tumor Classification
+Publication year : 2024
 
 @article{a15,
   title={Optimized Brain Tumor Detection: A Dual-Module Approach for MRI Image Enhancement and Tumor Classification},
@@ -193,6 +210,7 @@ Paper 15 : Optimized Brain Tumor Detection: A Dual-Module Approach for MRI Image
 
 
 Paper 16: MRI-based brain tumour image detection using CNN based deep learning method.
+Publication year : 2022
 
 @article{a16,
   title={MRI-based brain tumour image detection using CNN based deep learning method},
@@ -207,6 +225,7 @@ Paper 16: MRI-based brain tumour image detection using CNN based deep learning m
 
 
 Paper 17: Detection of tumors on brain MRI images using the hybrid convolutional neural network architecture
+Publication year : 2020
 
 @article{a17,
   title={Detection of tumors on brain MRI images using the hybrid convolutional neural network architecture},
@@ -220,6 +239,7 @@ Paper 17: Detection of tumors on brain MRI images using the hybrid convolutional
 
 
 Paper 18: Research on Feature Extraction of Tumor Image Based on Convolutional Neural Network
+Publication year : 2019
 
 @article{a18,
   title={Research on feature extraction of tumor image based on convolutional neural network},
@@ -233,6 +253,7 @@ Paper 18: Research on Feature Extraction of Tumor Image Based on Convolutional N
 
 
 Paper 19: Detection of brain tumors from MRI images base on deep learning using hybrid model CNN and NADE.
+Publication year : 2020
 
 @article{a19,
   title={Detection of brain tumors from MRI images base on deep learning using hybrid model CNN and NADE},
@@ -247,6 +268,7 @@ Paper 19: Detection of brain tumors from MRI images base on deep learning using 
 
 
 Paper 20: Brain tumor MRI images identification and classification based on the recurrent convolutional neural network
+Publication year : 2022
 
 @article{a20,
   title={Brain tumor MRI images identification and classification based on the recurrent convolutional neural network},
