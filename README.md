@@ -107,10 +107,5 @@ This project demonstrates the effectiveness of the U-Net architecture for brain 
 - Tuning hyperparameters for better performance.
 - Using a larger or more diverse dataset.
 
----
 
-## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
 
