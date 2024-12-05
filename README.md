@@ -15,21 +15,102 @@ This implementation is tailored for MRI data, where the goal is to classify each
 - **Evaluation Metrics**: Binary accuracy, Intersection over Union (IoU), and Dice Coefficient to assess model performance.
 - **Callbacks**: Model checkpointing during training to save the best-performing model.
 
-## Requirements
+# Brain MRI Segmentation using U-Net
 
-To run this project, you'll need the following Python libraries:
+## Introduction
+This project focuses on segmenting brain tumors from MRI scans using the **U-Net architecture**. The dataset consists of MRI images with corresponding segmentation masks that mark tumor regions. The goal is to develop a robust model for semantic segmentation, achieving high accuracy and overlap between predicted and actual tumor regions.
 
-- `tensorflow` (2.x or later)
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `sklearn`
-- `opencv-python` (for image preprocessing)
-- `scikit-image` (for image processing)
+---
 
-You can install the required packages via `pip`:
+## Dataset
+### Description
+The dataset contains pairs of:
+- **MRI Scans**: Grayscale or RGB images of brain scans.
+- **Segmentation Masks**: Binary masks where pixel values indicate tumor regions.
 
-```bash
-pip install tensorflow numpy pandas matplotlib scikit-learn opencv-python scikit-image
+### Features
+- **MRI Images**: High-resolution brain scans.
+- **Masks**: Binary masks (0 for background, 1 for tumor region).
 
+### Directory Structure
+The dataset is structured as:
+- **Images**: Folder containing MRI scans.
+- **Masks**: Folder containing segmentation masks for each MRI scan.
+
+---
+
+## Data Preprocessing
+1. **Resizing**: Images and masks resized to 256x256 pixels.
+2. **Normalization**: Pixel values scaled between 0 and 1.
+3. **Mask Binarization**: Thresholded such that values > 0.5 are set to 1, others to 0.
+4. **Data Splitting**: Dataset split into:
+   - 90% for training
+   - 5% for validation
+   - 5% for testing
+
+---
+
+## Feature Engineering
+### Data Augmentation
+To improve model generalization, the following augmentations were applied:
+- **Rotation**: Random rotations for orientation variability.
+- **Shifts**: Horizontal and vertical translations.
+- **Zoom and Shear**: Introduces scale variations.
+- **Horizontal Flip**: Adds variability in left-right orientations.
+
+---
+
+## Model Development
+### U-Net Architecture
+The **U-Net** model is used for segmentation:
+1. **Encoder**: Downsampling path with convolution and max-pooling layers.
+2. **Bottleneck**: Captures abstract features.
+3. **Decoder**: Upsampling path with transpose convolutions and skip connections.
+
+### Loss Function and Metrics
+- **Loss Function**: Dice Coefficient Loss to maximize overlap between predicted and ground truth masks.
+- **Metrics**:
+  - **Dice Coefficient**: Measures overlap between predicted and actual masks.
+  - **IoU (Intersection over Union)**: Evaluates segmentation accuracy.
+  - **Binary Accuracy**: Pixel-wise accuracy.
+
+---
+
+## Training
+### Hyperparameters
+- **Learning Rate**: `1e-4`
+- **Batch Size**: 32
+- **Epochs**: 10
+- **Optimizer**: Adam optimizer.
+
+### Callbacks
+- **Model Checkpoint**: Saves the best model based on validation loss.
+
+---
+
+## Results and Discussion
+### Evaluation
+The model is evaluated on the validation set using:
+- Dice Coefficient
+- IoU
+- Binary Accuracy
+
+### Visualizations
+- **Loss and Accuracy Curves**: Training and validation performance.
+- **Predicted Masks**: Examples of MRI images, ground truth masks, and predicted masks.
+
+---
+
+## Conclusion
+This project demonstrates the effectiveness of the U-Net architecture for brain MRI segmentation. Future improvements could include:
+- Experimenting with different architectures (e.g., Attention U-Net).
+- Tuning hyperparameters for better performance.
+- Using a larger or more diverse dataset.
+
+---
+
+## How to Use
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
 
