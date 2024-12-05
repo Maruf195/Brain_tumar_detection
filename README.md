@@ -27,6 +27,7 @@ This project focuses on segmenting brain tumors from MRI scans using the **U-Net
 The dataset contains pairs of:
 - **MRI Scans**: Grayscale or RGB images of brain scans.
 - **Segmentation Masks**: Binary masks where pixel values indicate tumor regions.
+- Kaggle Link - https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 
 ### Features
 - **MRI Images**: High-resolution brain scans.
