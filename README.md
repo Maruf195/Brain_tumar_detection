@@ -108,4 +108,16 @@ This project demonstrates the effectiveness of the U-Net architecture for brain 
 - Using a larger or more diverse dataset.
 
 
+---
+
+## Improving Performance with Threads and Processes
+### Use of Threads and Processes
+To optimize data preprocessing, training, and augmentation, multithreading and multiprocessing can be employed to utilize all available CPU cores effectively. This approach minimizes bottlenecks, such as loading and augmenting images during training.
+
+### Implementation Strategies
+1. **Multithreading for Data Loading**:
+   - Use TensorFlow/Keras `data_generator` with `use_multiprocessing=True` and `workers=N` (where `N` is the number of CPU cores) to parallelize data loading and augmentation.
+   - Benefit: Reduces GPU idle time during training.
+
+
 
