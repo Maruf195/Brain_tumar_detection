@@ -1,0 +1,12 @@
+#Following works fir mac M1
+numpy>=1.22,<1.24
+opencv_python==4.6.0.66
+streamlit==1.23.1
+tensorflow==2.12.0
+
+# brew install cmake
+# brew install libomp
+# brew install gcc
+# pip install --upgrade pip setuptools wheel
+# pip install pyarrow
+
