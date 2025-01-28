@@ -1,17 +1,7 @@
-# Brain Tumor Detection Models
+Brain Tumor Detection Models
 
-This project includes two models for brain tumor detection and segmentation:
-- **U-Net** for tumor segmentation.
-- **CNN with Hybrid Convolution Layers** for tumor classification.
-
-## Dataset Information
-
-### U-Net Model
-The dataset used for training the U-Net model is available on Kaggle:  
-[**LGG MRI Segmentation Dataset**](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
-
-### CNN Model
-The CNN model is trained using the following dataset from Kaggle:  
-[**Brain Tumor MRI Dataset**](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+Here are The link of the dataset that I have used in my model 
+Unet : https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+CNN : https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 
